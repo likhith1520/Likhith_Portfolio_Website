@@ -23,7 +23,7 @@ const Hero = () => {
             <a href="#experience" className="inline-flex items-center gap-2 border border-border text-foreground px-6 py-3 rounded-lg font-medium hover:bg-secondary transition-colors">
               View Work
             </a>
-            <a href="" className="inline-flex items-center gap-2 border border-border text-foreground px-6 py-3 rounded-lg font-medium hover:bg-secondary transition-colors">
+            <a href="https://drive.google.com/file/d/1iImh9UCa_g7-aCQ4u2liS59u8CSl1snL/view" className="inline-flex items-center gap-2 border border-border text-foreground px-6 py-3 rounded-lg font-medium hover:bg-secondary transition-colors">
               Download Resume
             </a>
           </div>

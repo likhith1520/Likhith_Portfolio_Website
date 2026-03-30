@@ -6,7 +6,7 @@ const skillCategories = [
   { title: "ORMs", skills: ["Sequelize", "SQLAlchemy", "SQLModel"] },
   { title: "Databases", skills: ["MongoDB", "Redis", "MySQL", "ElasticSearch"] },
   { title: "Cloud & DevOps", skills: ["AWS", "Docker"] },
-  { title: "Tools & Others", skills: ["Git", "GitHub", "RabbitMQ"] },
+  { title: "Tools & Others", skills: ["Git", "RabbitMQ"] },
 ];
 
 const Skills = () => {
