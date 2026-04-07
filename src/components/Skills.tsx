@@ -3,10 +3,10 @@ import { motion } from "framer-motion";
 const skillCategories = [
   { title: "Languages", skills: ["Python", "JavaScript", "TypeScript"] },
   { title: "Frameworks & Libraries", skills: ["FastAPI", "Node.js", "Express", "React", "Redux"] },
-  { title: "ORMs", skills: ["Sequelize", "SQLAlchemy", "SQLModel"] },
+  { title: "ORMs", skills: ["Sequelize", "SQLAlchemy"] },
   { title: "Databases", skills: ["MongoDB", "Redis", "MySQL", "ElasticSearch"] },
   { title: "Cloud & DevOps", skills: ["AWS", "Docker"] },
-  { title: "Tools & Others", skills: ["Git", "RabbitMQ"] },
+  { title: "Tools & Others", skills: ["Git", "RabbitMQ", "Pytest"] },
 ];
 
 const Skills = () => {
